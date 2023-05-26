@@ -1,0 +1,42 @@
+body{
+    background-image: url(images/wesson-wang-y0_vFxOHayg-unsplash.jpg);
+    background-size: 100% 60%;
+    background-color: black;
+    background-position: fixed;
+    background-repeat: no-repeat;
+}
+li{
+    float:right;
+    color:white;
+    font-size: 15px;
+    padding: 8px;  
+    font-family: 'Calibri';  
+}
+.flex{
+    display: flex;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+}
+.text{
+    color: white;
+    text-align: center;
+    width: 80% 90%;
+    font-size: 35px;
+}
+.flexorange{
+    display: flex;
+    background-color: darkorange;
+    color: white;
+    border-radius: 20px;
+}
+.tableflex{
+    color: white;
+
+}
+.para1{
+    color: white;
+    text-align: left;
+    padding: 10px;
+    
+}
